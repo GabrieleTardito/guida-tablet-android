@@ -5,11 +5,11 @@ Questa guida illustra la configurazione di un ambiente di sviluppo Python su tab
 
 ## FASE 1: Installazione delle Applicazioni Necessarie
 
-Prima di aprire i terminali, installare le seguenti 3 applicazioni sul dispositivo Android:
+Prima di aprire i terminali, installare le seguenti 3 applicazioni (essendo 2 di questi apk bisogna dare l'autirizzazione per l'installazionedi app da fonti sconosciute) sul dispositivo Android:
 
 1. **Termux:** Scaricare e installare l'applicazione **Termux** (scegliere da [F-Droid](https://f-droid.org/en/packages/com.termux/) o da [GitHub Releases](https://github.com/termux/termux-app/releases); evitare il Google Play Store in quanto non aggiornato).
 2. **Termux-X11:** Scaricare il pacchetto Android `termux-x11-universal-debug.apk` dalla pagina ufficiale [GitHub di Termux-X11](https://github.com/termux/termux-x11/releases) e installarlo sul tablet.
-3. **Browser Web:** Un qualsiasi browser moderno come **Google Chrome** o il browser default del tablet.
+3. **Browser Web:** Un qualsiasi browser moderno come **Google Chrome** o il browser default del tablet (quasi sicuramente almeno uno è già installato).
 
 ---
 

@@ -61,7 +61,6 @@ Annotare il valore riportato alla voce `password: xxxxxxxx` per effettuare il pr
 
 ```bash
 # Imposta TkAgg come backend predefinito per tutti gli script Python
-mkdir -p ~/.config/matplotlib
 echo "backend: TkAgg" > ~/.config/matplotlib/matplotlibrc
 
 # Rende permanente l'indirizzamento della grafica verso Termux-X11
